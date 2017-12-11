@@ -1,8 +1,10 @@
-### Run the pelican command to generate your site:
+# This is source code for my blog created by pelican
+
+## Run the pelican command to generate your site:
 
 ``pelican content``
 
-### local review
+## local review
 Run the following commands to switch to output directory and launch Pelican’s web server:
 
 ```
